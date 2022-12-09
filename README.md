@@ -5,3 +5,4 @@
 ## Ass 304-01 Link : https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass-304-10/Index01.html
 ## Ass 305-01 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20305-01/Index.html
 ## Ass 307-01 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20307-01/
+## Ass 305-05 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20305-05/
