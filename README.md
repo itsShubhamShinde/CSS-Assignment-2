@@ -8,3 +8,5 @@
 ## Ass 302-01 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20302-01/
 ## Ass 305-04 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20305-04/
 ## Ass 305-06 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20305-06/index.html
+## Ass 306-03 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20306-03/index.html
+## Ass 306-02 Link: https://itsshubhamshinde.github.io/CSS-Assignment-2/Ass%20306-03/index.html
